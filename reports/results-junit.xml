@@ -1,0 +1,13 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="4.040649000167846">
+<testsuite name="tests\home-page-tests.spec.ts" timestamp="2023-05-09T13:32:35.280Z" hostname="" tests="1" failures="0" skipped="0" time="2.413" errors="0">
+<testcase name="Basic tests › Check google offered text @regression" classname="tests\home-page-tests.spec.ts" time="2.413">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\tests-home-page-tests-Basic-tests-Check-google-offered-text-regression\trace.zip]]
+
+[[ATTACHMENT|test-results\tests-home-page-tests-Basic-tests-Check-google-offered-text-regression\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
